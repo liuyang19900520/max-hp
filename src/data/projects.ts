@@ -21,12 +21,16 @@ export interface Project {
   techStack: string[];
   /** Key feature list */
   features: string[];
-  /** Architecture diagram path, relative to public/ */
-  architectureImage: string;
+  /** Architecture diagram path, relative to public/; the section is hidden when omitted */
+  architectureImage?: string;
   /** Live project URL */
   externalUrl: string;
+  /** Label of the modal's link button, defaults to "Visit Project" */
+  ctaLabel?: string;
   /** Card icon */
   emoji: string;
+  /** App icon path relative to public/; replaces the emoji when set */
+  iconImage?: string;
   /** Notable design decisions, optional */
   designDecisions?: string[];
 }
@@ -91,5 +95,26 @@ export const projects: Project[] = [
       'Secrets managed in AWS Secrets Manager, never in source code',
       'CI/CD fully automated: GitHub Actions for backend (Docker → ECR → Lambda), Amplify for frontend',
     ],
+  },
+  {
+    id: 'kage-loop',
+    title: 'Kage Loop',
+    subtitle: 'A-B Repeat Video Player for iOS',
+    description:
+      'A minimalist iOS video player built for one thing: repeating a section of a video until you have got it. Ideal for shadowing, language learning and music transcription.',
+    detailDescription:
+      'Kage Loop is a minimalist video player built for one thing: repeating a section of a video until you have got it. It is perfect for shadowing practice, language learning, music transcription, or drilling any passage that needs repetition. Videos play straight from your photo library and are never copied or uploaded.',
+    techStack: ['iOS', 'Swift', 'SwiftUI', 'AVFoundation'],
+    features: [
+      '🔁 A-B Repeat - Mark a start and an end point and playback loops between them until you cancel; both points show on the scrubber',
+      '📝 Word Lists - Jot down words as you practice, one list per video, with on-device translations; your notes outlive your videos',
+      '📂 Playlists - Group related videos and name them; episodes sort the way you read them (02 before 10)',
+      '⏩ Playback Built for Practice - Speed 0.8x to 1.2x with natural pitch, tap to jump 3s, resume where you left off, audio on a locked screen',
+      '🔒 Completely Private - No account, no network requests, no analytics, no ads',
+    ],
+    externalUrl: 'https://apps.apple.com/jp/app/kage-loop/id6806611473',
+    ctaLabel: 'Download on the App Store',
+    emoji: '🔁',
+    iconImage: '/kage-loop-icon.png',
   },
 ];
