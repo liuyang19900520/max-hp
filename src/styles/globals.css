@@ -20,6 +20,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.reading-shelf {
+  scrollbar-width: thin;
+  scrollbar-color: #a3a3a3 transparent;
+}
+
 /* Entrance animations for the detail modal and fullscreen image viewer */
 @keyframes fadeIn {
   from {

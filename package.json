@@ -8,6 +8,7 @@
     "start": "npx serve out",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
+    "sync:reading": "node scripts/sync-weread.mjs",
     "format": "prettier --write ."
   },
   "dependencies": {

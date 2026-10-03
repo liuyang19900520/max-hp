@@ -38,6 +38,21 @@ public/
 
 Edit `src/data/projects.ts` only — append an entry to the `projects` array and the UI picks it up; no component changes needed. Field documentation lives in that file. Put architecture diagrams in `public/` and set `architectureImage` to a path starting with `/`.
 
+## Reading shelf
+
+The homepage ends with a looping, horizontally scrollable shelf of public finished
+WeRead books, including cover images. It supports touch, arrow buttons, and slow
+automatic scrolling; hover or keyboard focus pauses it. Reduced-motion preferences
+disable automatic scrolling by default.
+
+`npm run sync:reading` refreshes `src/data/reading.json` using a private
+`WEREAD_API_KEY` environment variable. Only display fields from explicitly public,
+finished books are saved. Credentials and private reading records are never exported.
+The GitHub workflow runs daily at 06:00 Japan time and can be run manually. Configure
+the repository's `WEREAD_API_KEY` Actions Secret before enabling synchronization.
+Failed requests preserve the previous book list. Cover images are loaded from the
+URLs returned by WeRead, with a title fallback if an image becomes unavailable.
+
 ## Deployment
 
 Vercel, with no CI configuration files:

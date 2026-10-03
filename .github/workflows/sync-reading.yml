@@ -1,0 +1,38 @@
+name: Sync WeRead bookshelf
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-reading
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch public finished books
+        run: node scripts/sync-weread.mjs
+        env:
+          WEREAD_API_KEY: ${{ secrets.WEREAD_API_KEY }}
+      - name: Save updated reading shelf
+        run: |
+          if git diff --quiet -- src/data/reading.json; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/reading.json
+          git commit -m 'chore: sync public finished books from WeRead'
+          git push origin HEAD:main
