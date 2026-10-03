@@ -4,6 +4,29 @@ import { useState, useEffect, useCallback } from 'react';
 import Image from 'next/image';
 import { projects, type Project } from '@/data/projects';
 
+function ProjectIcon({
+  project,
+  className,
+  size,
+}: {
+  project: Project;
+  className: string;
+  size: number;
+}) {
+  if (project.iconImage) {
+    return (
+      <Image
+        src={project.iconImage}
+        alt={`${project.title} icon`}
+        width={size}
+        height={size}
+        className="rounded-lg flex-shrink-0"
+      />
+    );
+  }
+  return <span className={className}>{project.emoji}</span>;
+}
+
 export default function Portfolio() {
   const [selectedItem, setSelectedItem] = useState<Project | null>(null);
   const [fullscreenImage, setFullscreenImage] = useState<string | null>(null);
@@ -44,7 +67,7 @@ export default function Portfolio() {
       {/* Portfolio Section */}
       <div className="w-full max-w-2xl mt-4">
         <h3 className="text-sm font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-4 text-center sm:text-left">
-          Works
+          Personal Works
         </h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {projects.map((item) => (
@@ -57,7 +80,7 @@ export default function Portfolio() {
               <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-orange-500 via-red-500 to-purple-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
 
               <div className="flex items-start gap-3">
-                <span className="text-3xl">{item.emoji}</span>
+                <ProjectIcon project={item} className="text-3xl" size={32} />
                 <div className="flex-1 min-w-0">
                   <h4 className="font-semibold text-base text-foreground group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-orange-500 group-hover:to-purple-600 transition-all duration-300">
                     {item.title}
@@ -121,7 +144,7 @@ export default function Portfolio() {
               </button>
 
               <div className="flex items-center gap-3 mt-2">
-                <span className="text-4xl">{selectedItem.emoji}</span>
+                <ProjectIcon project={selectedItem} className="text-4xl" size={40} />
                 <div>
                   <h2 className="text-2xl font-bold text-foreground">{selectedItem.title}</h2>
                   <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -193,45 +216,47 @@ export default function Portfolio() {
               )}
 
               {/* Architecture Diagram - clickable to fullscreen */}
-              <div>
-                <h4 className="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-2">
-                  Architecture
-                </h4>
-                <button
-                  onClick={() => setFullscreenImage(selectedItem.architectureImage)}
-                  className="group/arch relative w-full rounded-xl overflow-hidden border border-black/[.08] dark:border-white/[.1] bg-[#1a1a2e] cursor-zoom-in transition-all duration-300 hover:border-orange-500/40 hover:shadow-lg hover:shadow-orange-500/10"
-                >
-                  <Image
-                    src={selectedItem.architectureImage}
-                    alt={`${selectedItem.title} Architecture`}
-                    width={800}
-                    height={600}
-                    className="w-full h-auto object-contain"
-                    style={{ maxHeight: '400px' }}
-                  />
-                  {/* Fullscreen hint overlay */}
-                  <div className="absolute inset-0 flex items-center justify-center bg-black/0 group-hover/arch:bg-black/30 transition-all duration-300">
-                    <div className="opacity-0 group-hover/arch:opacity-100 transition-all duration-300 flex items-center gap-2 bg-black/70 text-white px-4 py-2 rounded-full text-sm font-medium backdrop-blur-sm">
-                      <svg
-                        width="16"
-                        height="16"
-                        viewBox="0 0 24 24"
-                        fill="none"
-                        stroke="currentColor"
-                        strokeWidth="2"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      >
-                        <polyline points="15 3 21 3 21 9" />
-                        <polyline points="9 21 3 21 3 15" />
-                        <line x1="21" y1="3" x2="14" y2="10" />
-                        <line x1="3" y1="21" x2="10" y2="14" />
-                      </svg>
-                      Click to enlarge
+              {selectedItem.architectureImage && (
+                <div>
+                  <h4 className="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-2">
+                    Architecture
+                  </h4>
+                  <button
+                    onClick={() => setFullscreenImage(selectedItem.architectureImage ?? null)}
+                    className="group/arch relative w-full rounded-xl overflow-hidden border border-black/[.08] dark:border-white/[.1] bg-[#1a1a2e] cursor-zoom-in transition-all duration-300 hover:border-orange-500/40 hover:shadow-lg hover:shadow-orange-500/10"
+                  >
+                    <Image
+                      src={selectedItem.architectureImage}
+                      alt={`${selectedItem.title} Architecture`}
+                      width={800}
+                      height={600}
+                      className="w-full h-auto object-contain"
+                      style={{ maxHeight: '400px' }}
+                    />
+                    {/* Fullscreen hint overlay */}
+                    <div className="absolute inset-0 flex items-center justify-center bg-black/0 group-hover/arch:bg-black/30 transition-all duration-300">
+                      <div className="opacity-0 group-hover/arch:opacity-100 transition-all duration-300 flex items-center gap-2 bg-black/70 text-white px-4 py-2 rounded-full text-sm font-medium backdrop-blur-sm">
+                        <svg
+                          width="16"
+                          height="16"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="2"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                        >
+                          <polyline points="15 3 21 3 21 9" />
+                          <polyline points="9 21 3 21 3 15" />
+                          <line x1="21" y1="3" x2="14" y2="10" />
+                          <line x1="3" y1="21" x2="10" y2="14" />
+                        </svg>
+                        Click to enlarge
+                      </div>
                     </div>
-                  </div>
-                </button>
-              </div>
+                  </button>
+                </div>
+              )}
 
               {/* CTA Button */}
               <div className="pt-2">
@@ -241,7 +266,7 @@ export default function Portfolio() {
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 rounded-full bg-foreground text-background px-6 py-3 text-sm font-medium hover:bg-[#383838] dark:hover:bg-[#ccc] transition-colors"
                 >
-                  Visit Project
+                  {selectedItem.ctaLabel ?? 'Visit Project'}
                   <svg
                     width="14"
                     height="14"
