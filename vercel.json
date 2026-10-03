@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/resume/resume.html",
+      "destination": "/resume/resume",
+      "permanent": true
+    },
+    {
+      "source": "/resume/resume-en.html",
+      "destination": "/resume/resume-en",
+      "permanent": true
+    }
+  ]
+}
