@@ -1,0 +1,1447 @@
+{
+  "syncedAt": "2026-10-03T13:29:34.532Z",
+  "books": [
+    {
+      "id": "437924",
+      "title": "六祖坛经讲话",
+      "author": "星云大师",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/924/437924/t6_437924.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=14432ae056aea4144b02ccb"
+    },
+    {
+      "id": "3300055255",
+      "title": "毛泽东诗词鉴赏",
+      "author": "田秉锷",
+      "cover": "https://cdn.weread.qq.com/weread/cover/34/cpplatform_3qk5g9nz3hjpq6cqnoaajp/t6_cpplatform_3qk5g9nz3hjpq6cqnoaajp1681368665.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9ec32850813ab7c15g015126"
+    },
+    {
+      "id": "3300219427",
+      "title": "庄子灵悟：心不受力，万事可成",
+      "author": "有书编著",
+      "cover": "https://cdn.weread.qq.com/weread/cover/69/cpplatform_vhutkpeosd6vyzbybp3j11/t6_cpplatform_vhutkpeosd6vyzbybp3j111784515856.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=39732410813abbc36g017d75"
+    },
+    {
+      "id": "3300074852",
+      "title": "冬泳",
+      "author": "班宇",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_ohyqfz5namm7bv6rq9jpvq/t6_cpplatform_ohyqfz5namm7bv6rq9jpvq1698228244.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=09f322c0813ab83bdg012b36"
+    },
+    {
+      "id": "3300197961",
+      "title": "技术革命与金融资本：AI、泡沫与周期",
+      "author": "[英]卡洛塔·佩雷斯",
+      "cover": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_d1upgnzfqdz2jbiewxrotf/t6_cpplatform_d1upgnzfqdz2jbiewxrotf1773214911.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d2132680813abb3d4g011203"
+    },
+    {
+      "id": "3300176894",
+      "title": "在峡江的转弯处：陈行甲人生笔记（微信读书特别版）",
+      "author": "陈行甲",
+      "cover": "https://cdn.weread.qq.com/weread/cover/45/cpplatform_tcicyvvh7amnepxj9hcexy/t6_cpplatform_tcicyvvh7amnepxj9hcexy1762922807.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=392328f0813abab99g014cb5"
+    },
+    {
+      "id": "3300036988",
+      "title": "论语（中华经典藏书·升级版）",
+      "author": "陈晓芬译注",
+      "cover": "https://cdn.weread.qq.com/weread/cover/58/cpPlatform_o9mXgeWYSNs2FxWcqhjfd3/t6_cpPlatform_o9mXgeWYSNs2FxWcqhjfd3.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=03132220813ab74f2g0185b0"
+    },
+    {
+      "id": "40055543",
+      "title": "置身事内：中国政府与经济发展",
+      "author": "兰小欢",
+      "cover": "https://cdn.weread.qq.com/weread/cover/52/YueWen_40055543/t6_YueWen_40055543.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2a332d10726332f72a34943"
+    },
+    {
+      "id": "24147346",
+      "title": "沉思录（译文经典）",
+      "author": "[古罗马]马可·奥勒留",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/346/24147346/t6_24147346.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=bdd327d071707592bdd6148"
+    },
+    {
+      "id": "33889243",
+      "title": "理想国（汉译世界学术名著丛书）",
+      "author": "[古希腊]柏拉图",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/243/33889243/t6_33889243.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=40a32b8072051bdb40a6b87"
+    },
+    {
+      "id": "3300181641",
+      "title": "皇权与绅权",
+      "author": "费孝通",
+      "cover": "https://cdn.weread.qq.com/weread/cover/10/cpplatform_tngfweflcdxg3gawfqi893/t6_cpplatform_tngfweflcdxg3gawfqi8931764904858.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a5d32f60813abad74g01117d"
+    },
+    {
+      "id": "853999",
+      "title": "哲学简史",
+      "author": "[英]罗素",
+      "cover": "https://cdn.weread.qq.com/weread/cover/71/YueWen_853999/t6_YueWen_853999.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=51b329b05d07ef51bf364ae"
+    },
+    {
+      "id": "3300025964",
+      "title": "仙症",
+      "author": "郑执",
+      "cover": "https://cdn.weread.qq.com/weread/cover/18/cpPlatform_uyH6XHXA6QZeKEqiThdRig/t6_cpPlatform_uyH6XHXA6QZeKEqiThdRig.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d9432200813ab70a4g014cbc"
+    },
+    {
+      "id": "3300055586",
+      "title": "古希腊思想通识课：修昔底德篇",
+      "author": "张新刚",
+      "cover": "https://cdn.weread.qq.com/weread/cover/83/cpplatform_3yrkkxczim8uk5ukewyiki/t6_cpplatform_3yrkkxczim8uk5ukewyiki1681463653.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85632970813ab7c36g016236"
+    },
+    {
+      "id": "3300176620",
+      "title": "金阁寺（2025经典无删减版）",
+      "author": "[日]三岛由纪夫著\n黄洪涛译",
+      "cover": "https://cdn.weread.qq.com/weread/cover/21/cpplatform_km8hs7ccwwazn2orp8md4a/t6_cpplatform_km8hs7ccwwazn2orp8md4a1762764574.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=027324c0813abab7eg010db9"
+    },
+    {
+      "id": "3300071614",
+      "title": "陈寅恪与傅斯年（全新修订版）",
+      "author": "岳南",
+      "cover": "https://cdn.weread.qq.com/weread/cover/33/cpplatform_7pjqth7nn75sya5hkq4tcr/t6_cpplatform_7pjqth7nn75sya5hkq4tcr1782468130.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=4fa32700813ab8279g0141c6"
+    },
+    {
+      "id": "38119173",
+      "title": "文治帝国：大宋300年的世运与人物",
+      "author": "艾公子",
+      "cover": "https://cdn.weread.qq.com/weread/cover/65/YueWen_38119173/t6_YueWen_38119173.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=87a326a07245a70587a7571"
+    },
+    {
+      "id": "3300024284",
+      "title": "毛泽东选集（全四卷）",
+      "author": "",
+      "cover": "https://cdn.weread.qq.com/weread/cover/84/3300024284/t6_3300024284.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2bb32ff0813ab6ffcg014315"
+    },
+    {
+      "id": "812443",
+      "title": "白鹿原",
+      "author": "陈忠实",
+      "cover": "https://cdn.weread.qq.com/weread/cover/78/YueWen_812443/t6_YueWen_812443.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=47532ac05c659b47554a825"
+    },
+    {
+      "id": "912827",
+      "title": "红拂夜奔",
+      "author": "王小波",
+      "cover": "https://cdn.weread.qq.com/weread/cover/51/YueWen_912827/t6_YueWen_912827.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e1c32ed05dedbbe1ca7ef1e"
+    },
+    {
+      "id": "838779",
+      "title": "台北人",
+      "author": "白先勇",
+      "cover": "https://cdn.weread.qq.com/weread/cover/84/yuewen_838779/t6_yuewen_8387791723192471.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=266327205ccc7b266a59c98"
+    },
+    {
+      "id": "3300071182",
+      "title": "经纬华夏（历史学家许倬云的集大成之作）",
+      "author": "许倬云",
+      "cover": "https://cdn.weread.qq.com/weread/cover/67/cpplatform_a9sazckznjj4np8ggvaglz/t6_cpplatform_a9sazckznjj4np8ggvaglz1694758919.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=45f321a0813ab824eg012b04"
+    },
+    {
+      "id": "3300145913",
+      "title": "一读就懂的地藏经",
+      "author": "汤婧平",
+      "cover": "https://cdn.weread.qq.com/weread/cover/16/cpplatform_3vrfxa2qsw1k9xkp9o7m4l/t6_cpplatform_3vrfxa2qsw1k9xkp9o7m4l1753165393.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=c0932a40813ab9f7fg013572"
+    },
+    {
+      "id": "24919659",
+      "title": "上海往事",
+      "author": "毕飞宇",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/659/24919659/t6_24919659.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=02632bd0717c3e6b0265bc4"
+    },
+    {
+      "id": "3300020786",
+      "title": "西方思想史十二讲",
+      "author": "彭刚",
+      "cover": "https://cdn.weread.qq.com/weread/cover/86/3300020786/t6_3300020786.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a9332260813ab6e9eg0169b9"
+    },
+    {
+      "id": "25568747",
+      "title": "企鹅欧洲史·古典欧洲的诞生：从特洛伊到奥古斯丁",
+      "author": "西蒙·普莱斯 彼得·索恩曼",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/747/25568747/t6_25568747.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2a532da0718625eb2a5cee3"
+    },
+    {
+      "id": "3300005131",
+      "title": "曾国藩的正面与侧面.2",
+      "author": "张宏杰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/85/cpplatform_3300005131/t6_cpplatform_33000051311720767000.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=dc932870813ab6881g011866"
+    },
+    {
+      "id": "35361168",
+      "title": "曾国藩的正面与侧面",
+      "author": "张宏杰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/27/YueWen_35361168/t6_YueWen_35361168.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85832630721b9190858ebf5"
+    },
+    {
+      "id": "27563123",
+      "title": "金刚经说什么",
+      "author": "南怀瑾著述",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/123/27563123/t6_27563123.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d68328d071a49473d6825b1"
+    },
+    {
+      "id": "3300033249",
+      "title": "共产党宣言：纪念版",
+      "author": "马克思恩格斯",
+      "cover": "https://cdn.weread.qq.com/weread/cover/86/cpPlatform_anYtZZ1e1njGEScqDyAUoG/t6_cpPlatform_anYtZZ1e1njGEScqDyAUoG.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=7ee32da0813ab737cg019361"
+    },
+    {
+      "id": "3300167047",
+      "title": "段永平投资实战",
+      "author": "王健平",
+      "cover": "https://cdn.weread.qq.com/weread/cover/90/cpplatform_jnn8gy5ng92kkc8imvse3z/t6_cpplatform_jnn8gy5ng92kkc8imvse3z1759040243.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=47a32f40813aba7c0g017283"
+    },
+    {
+      "id": "3300109903",
+      "title": "西方哲学思想讲义",
+      "author": "王德峰   吴晓明",
+      "cover": "https://cdn.weread.qq.com/weread/cover/6/cpplatform_m6qrp5san2hvefjdkjcxvc/t6_cpplatform_m6qrp5san2hvefjdkjcxvc1722592209.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=80832950813ab916eg0131ee"
+    },
+    {
+      "id": "3300096677",
+      "title": "宋词三百年",
+      "author": "艾公子",
+      "cover": "https://cdn.weread.qq.com/weread/cover/3/cpplatform_rgq6j4k6cxcp2bztjhsmzk/t6_cpplatform_rgq6j4k6cxcp2bztjhsmzk1714292580.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=df832110813ab8c43g017a37"
+    },
+    {
+      "id": "3300075047",
+      "title": "雪国（川端康成作品系列）",
+      "author": "川端康成",
+      "cover": "https://cdn.weread.qq.com/weread/cover/49/cpplatform_mbrabt2hzcyfn5rfase2hn/t6_cpplatform_mbrabt2hzcyfn5rfase2hn1697708062.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2c132d10813ab83d0g017c24"
+    },
+    {
+      "id": "837686",
+      "title": "局外人（果麦经典）",
+      "author": "[法]加缪",
+      "cover": "https://cdn.weread.qq.com/weread/cover/60/yuewen_837686/t6_yuewen_8376861702620281.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a47329f05cc836a47d645bf"
+    },
+    {
+      "id": "3300123638",
+      "title": "冷战国际史二十四讲",
+      "author": "沈志华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/28/cpplatform_emddwne1mh85o1z9ogkuva/t6_cpplatform_emddwne1mh85o1z9ogkuva1733198338.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d33326c0813ab96cbg01862f"
+    },
+    {
+      "id": "674048",
+      "title": "邓小平时代",
+      "author": "傅高义",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/48/674048/t6_674048.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=00f325d05a490000f72bda9"
+    },
+    {
+      "id": "3300168271",
+      "title": "西行漫记",
+      "author": "[美]埃德加·斯诺",
+      "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_7nq5tdweqwawkixr4kh21y/t6_cpplatform_7nq5tdweqwawkixr4kh21y1760090397.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=3a5329a0813aba83bg011b29"
+    },
+    {
+      "id": "3300099034",
+      "title": "激荡三百年",
+      "author": "艾公子",
+      "cover": "https://cdn.weread.qq.com/weread/cover/65/cpplatform_wysi4u6jl35dxqpsvlzfdq/t6_cpplatform_wysi4u6jl35dxqpsvlzfdq1715237740.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=50c32b70813ab8d2fg014d8a"
+    },
+    {
+      "id": "29313494",
+      "title": "黎东方讲史之续·细说宋朝",
+      "author": "虞云国",
+      "cover": "https://cdn.weread.qq.com/weread/cover/21/YueWen_29313494/t6_YueWen_29313494.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=dd33290071bf49d6dd35502"
+    },
+    {
+      "id": "3300090529",
+      "title": "李煜：南唐家国四十年",
+      "author": "滕毅",
+      "cover": "https://cdn.weread.qq.com/weread/cover/8/cpplatform_c53j9sgchps5mdryuef91t/t6_cpplatform_c53j9sgchps5mdryuef91t1710233705.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=11d32820813ab89dcg019984"
+    },
+    {
+      "id": "3300016868",
+      "title": "古希腊思想通识课：希罗多德篇",
+      "author": "张新刚",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/3300016868/t6_3300016868.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=5e132b40813ab6d16g018db3"
+    },
+    {
+      "id": "3300055149",
+      "title": "我在北京送快递",
+      "author": "胡安焉",
+      "cover": "https://cdn.weread.qq.com/weread/cover/88/cpplatform_8th7igjxnsgez3s8ir24vp/t6_cpplatform_8th7igjxnsgez3s8ir24vp1681204246.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=51532c40813ab7c0ag019c84"
+    },
+    {
+      "id": "26785321",
+      "title": "打开：周濂的100堂西方哲学课",
+      "author": "周濂",
+      "cover": "https://cdn.weread.qq.com/weread/cover/6/YueWen_26785321/t6_YueWen_26785321.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=eac32a007198b629eac60e4"
+    },
+    {
+      "id": "26675419",
+      "title": "二十五史简明读本·三国志",
+      "author": "李国章 赵昌平主编",
+      "cover": "https://cdn.weread.qq.com/weread/cover/36/YueWen_26675419/t6_YueWen_26675419.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=79232610719708db792f25b"
+    },
+    {
+      "id": "26675409",
+      "title": "二十五史简明读本·汉书",
+      "author": "李国章 赵昌平主编",
+      "cover": "https://cdn.weread.qq.com/weread/cover/5/YueWen_26675409/t6_YueWen_26675409.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=826325d0719708d182640b2"
+    },
+    {
+      "id": "26675411",
+      "title": "二十五史简明读本·后汉书",
+      "author": "李国章 赵昌平主编",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/411/26675411/t6_26675411.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a72323d0719708d3a72055e"
+    },
+    {
+      "id": "728497",
+      "title": "东方快车谋杀案",
+      "author": "阿加莎·克里斯蒂",
+      "cover": "https://cdn.weread.qq.com/weread/cover/53/yuewen_728497/t6_yuewen_7284971680854100.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=603327a05b1db160313dacf"
+    },
+    {
+      "id": "3300063020",
+      "title": "西川的诗",
+      "author": "西川",
+      "cover": "https://cdn.weread.qq.com/weread/cover/66/cpplatform_btfazpg977p9hjg9hux7g4/t6_cpplatform_btfazpg977p9hjg9hux7g41688113689.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=048324e0813ab7f1eg01094a"
+    },
+    {
+      "id": "3300129119",
+      "title": "毛泽东、斯大林与朝鲜战争",
+      "author": "沈志华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/6/cpplatform_ipphl1d9xg8s86w6pyeke1/t6_cpplatform_ipphl1d9xg8s86w6pyeke11749696305.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=275320d0813ab98efg019e4a"
+    },
+    {
+      "id": "23523080",
+      "title": "中国思想史",
+      "author": "钱穆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/83/yuewen_23523080/t6_yuewen_235230801689842348.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=46c322d07166ef0846c5c57"
+    },
+    {
+      "id": "42724927",
+      "title": "西方哲学史讲演录",
+      "author": "赵林",
+      "cover": "https://cdn.weread.qq.com/weread/cover/67/YueWen_42724927/t6_YueWen_42724927.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=80932490728bee3f80993c0"
+    },
+    {
+      "id": "534288",
+      "title": "曾国藩：唐浩明修订版（全集）",
+      "author": "唐浩明",
+      "cover": "https://cdn.weread.qq.com/weread/cover/48/YueWen_534288/t6_YueWen_534288.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f0e32bf0582710f0eb840e1"
+    },
+    {
+      "id": "25719706",
+      "title": "魏晋南北朝隋唐史讲义（大学用书）",
+      "author": "唐长孺",
+      "cover": "https://cdn.weread.qq.com/weread/cover/21/YueWen_25719706/t6_YueWen_25719706.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ffc321907188739affc438a"
+    },
+    {
+      "id": "651358",
+      "title": "中国哲学简史",
+      "author": "冯友兰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/24/YueWen_651358/t6_YueWen_651358.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9f832d8059f05e9f8657f05"
+    },
+    {
+      "id": "3300024943",
+      "title": "一句顶一万句（2022新版）",
+      "author": "刘震云",
+      "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/t6_3300024943.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=3de32670813ab703eg013597"
+    },
+    {
+      "id": "23523087",
+      "title": "宋明理学概述",
+      "author": "钱穆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/90/yuewen_23523087/t6_yuewen_235230871689842415.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=44c324d07166ef0f44c7960"
+    },
+    {
+      "id": "3300062728",
+      "title": "雍正传",
+      "author": "冯尔康",
+      "cover": "https://cdn.weread.qq.com/weread/cover/35/cpplatform_xx9yanwhx3tnluv9grbgno/t6_cpplatform_xx9yanwhx3tnluv9grbgno1687947261.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85f32ad0813ab7f00g0183dd"
+    },
+    {
+      "id": "35239384",
+      "title": "西西弗神话",
+      "author": "[法]阿尔贝·加缪",
+      "cover": "https://cdn.weread.qq.com/weread/cover/85/YueWen_35239384/t6_YueWen_35239384.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85732ce07219b5d8857ddb1"
+    },
+    {
+      "id": "23774475",
+      "title": "曾国藩传（张宏杰全新增补版）",
+      "author": "张宏杰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/23/yuewen_23774475/t6_yuewen_237744751687158200.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=66032040716ac50b660b6c7"
+    },
+    {
+      "id": "856170",
+      "title": "富兰克林自传（经典译林）",
+      "author": "本杰明·富兰克林",
+      "cover": "https://cdn.weread.qq.com/weread/cover/85/YueWen_856170/t6_YueWen_856170.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d1c32df05d106ad1cef92c8"
+    },
+    {
+      "id": "3300062289",
+      "title": "庆历四年秋（宋史三部曲）",
+      "author": "夏坚勇",
+      "cover": "https://cdn.weread.qq.com/weread/cover/43/cpplatform_mqqayt1zw4sos4yp6vxl3r/t6_cpplatform_mqqayt1zw4sos4yp6vxl3r1687258019.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=0d032230813ab7ed4g019338"
+    },
+    {
+      "id": "31580173",
+      "title": "苏轼诗词文选评",
+      "author": "王水照 朱刚",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/173/31580173/t6_31580173.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=3363219071e1e00d336b383"
+    },
+    {
+      "id": "29793591",
+      "title": "坛经",
+      "author": "惠能 丁福保笺注 哈磊整理",
+      "cover": "https://cdn.weread.qq.com/weread/cover/47/YueWen_29793591/t6_YueWen_29793591.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=985322b071c69d3798509c3"
+    },
+    {
+      "id": "3300046920",
+      "title": "历史的面孔2",
+      "author": "徐涛",
+      "cover": "https://cdn.weread.qq.com/weread/cover/2/cpplatform_8snmdafte84ypbkgfpxhys/t6_cpplatform_8snmdafte84ypbkgfpxhys1674112101.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=af232d00813ab78d4g010f6f"
+    },
+    {
+      "id": "674039",
+      "title": "推拿（茅盾文学奖获奖作品｜同名电影原著）",
+      "author": "毕飞宇",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/39/674039/t6_674039.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=45532f305a48f7455b59a85"
+    },
+    {
+      "id": "3300007517",
+      "title": "共同的底线",
+      "author": "秦晖",
+      "cover": "https://cdn.weread.qq.com/weread/cover/51/cpPlatform_3300007517/t6_cpPlatform_3300007517.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e6a325f0813ab696fg017ccc"
+    },
+    {
+      "id": "3300036973",
+      "title": "将无同——中古史研究论文集",
+      "author": "胡宝国著",
+      "cover": "https://cdn.weread.qq.com/weread/cover/86/cpPlatform_cLAQ8jMCao8cbnyF7QN8cS/t6_cpPlatform_cLAQ8jMCao8cbnyF7QN8cS.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=17732160813ab74f1g013801"
+    },
+    {
+      "id": "3300016646",
+      "title": "可能性的艺术：比较政治学30讲",
+      "author": "刘瑜",
+      "cover": "https://cdn.weread.qq.com/weread/cover/46/3300016646/t6_3300016646.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9ea325a0813ab6d00g01640c"
+    },
+    {
+      "id": "3300012339",
+      "title": "假如我今生无缘遇到你-泰戈尔诗歌精选.爱情诗",
+      "author": "[印度]泰戈尔",
+      "cover": "https://cdn.weread.qq.com/weread/cover/39/3300012339/t6_3300012339.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ed832a20813ab6b51g019b56"
+    },
+    {
+      "id": "25615383",
+      "title": "涛动周期论：经济周期决定人生财富命运",
+      "author": "周金涛等编著",
+      "cover": "https://cdn.weread.qq.com/weread/cover/71/YueWen_25615383/t6_YueWen_25615383.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9c8326707186dc179c84e6a"
+    },
+    {
+      "id": "834466",
+      "title": "兄弟",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/3/yuewen_834466/t6_yuewen_8344661758521400.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b0f32f805cbba2b0f901ea8"
+    },
+    {
+      "id": "38129393",
+      "title": "增广贤文·声律启蒙·格言联壁：格言联壁",
+      "author": "马艺天主编",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/393/38129393/t6_38129393.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=734322307245cef1734ffb1"
+    },
+    {
+      "id": "3300116836",
+      "title": "复利：全球顶尖投资者的31节认知与决策思维课",
+      "author": "[美]高塔姆·拜德",
+      "cover": "https://cdn.weread.qq.com/weread/cover/59/cpplatform_knz4s3h4cmh2rtb3j3bppu/t6_cpplatform_knz4s3h4cmh2rtb3j3bppu1728370050.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f7d32730813ab9423g0162bb"
+    },
+    {
+      "id": "3300141330",
+      "title": "好运设计（轻经典）",
+      "author": "史铁生",
+      "cover": "https://cdn.weread.qq.com/weread/cover/43/cpplatform_tpfh1dpqjg5pm4knisxr5i/t6_cpplatform_tpfh1dpqjg5pm4knisxr5i1752237715.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=93e32de0813ab9db5g010e43"
+    },
+    {
+      "id": "38818164",
+      "title": "罪与罚",
+      "author": "陀思妥耶夫斯基",
+      "cover": "https://cdn.weread.qq.com/weread/cover/53/YueWen_38818164/t6_YueWen_38818164.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=cb73280072505174cb7179d"
+    },
+    {
+      "id": "853107",
+      "title": "基督山伯爵",
+      "author": "[法]大仲马",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/107/853107/t6_853107.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=98d327d05d047398d8a6b97"
+    },
+    {
+      "id": "25444612",
+      "title": "你来人间一趟，你要看看太阳",
+      "author": "海子",
+      "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_25444612/t6_YueWen_25444612.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b5c3233071844104b5ccfaa"
+    },
+    {
+      "id": "34619903",
+      "title": "尘埃落定（同名电视剧原著）",
+      "author": "阿来",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/903/34619903/t6_34619903.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85732cf0721041ff857a70b"
+    },
+    {
+      "id": "24952963",
+      "title": "解放战争（下）（1948年10月～1950年5月）",
+      "author": "王树增",
+      "cover": "https://cdn.weread.qq.com/weread/cover/10/YueWen_24952963/t6_YueWen_24952963.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=15832510717cc0831587dcc"
+    },
+    {
+      "id": "32957551",
+      "title": "文学回忆录：1989-1994",
+      "author": "木心讲述 陈丹青笔录",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/551/32957551/t6_32957551.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=abd3285071f6e46fabd185f"
+    },
+    {
+      "id": "3300072352",
+      "title": "叶嘉莹论苏轼词",
+      "author": "叶嘉莹",
+      "cover": "https://cdn.weread.qq.com/weread/cover/30/cpplatform_txbnyec7pbsdjm4kepba5m/t6_cpplatform_txbnyec7pbsdjm4kepba5m1695713863.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=59f32980813ab82c3g012eb5"
+    },
+    {
+      "id": "3300038268",
+      "title": "一本书读懂财报",
+      "author": "肖星",
+      "cover": "https://cdn.weread.qq.com/weread/cover/71/cpPlatform_gqk25P4awViyZspmzdqvf5/t6_cpPlatform_gqk25P4awViyZspmzdqvf5.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=15332930813ab7572g018073"
+    },
+    {
+      "id": "35346575",
+      "title": "你一定爱读的极简欧洲史（增订纪念版)",
+      "author": "约翰·赫斯特",
+      "cover": "https://cdn.weread.qq.com/weread/cover/12/YueWen_35346575/t6_YueWen_35346575.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=7a332810721b588f7a32c7e"
+    },
+    {
+      "id": "830009",
+      "title": "动物庄园（英文版）",
+      "author": "乔治·奥威尔",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/9/830009/t6_830009.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ddd329805caa39ddd76ceed"
+    },
+    {
+      "id": "3300070952",
+      "title": "看见孩子",
+      "author": "贝姬·肯尼迪",
+      "cover": "https://cdn.weread.qq.com/weread/cover/51/cpplatform_59zd8bsvew2haapnupon1r/t6_cpplatform_59zd8bsvew2haapnupon1r1694596495.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=55932970813ab8237g0121c3"
+    },
+    {
+      "id": "935536",
+      "title": "百年孤独",
+      "author": "[哥]加西亚•马尔克斯",
+      "cover": "https://cdn.weread.qq.com/weread/cover/49/yuewen_935536/t6_yuewen_9355361682243599.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=8bc329705e46708bcb0c164"
+    },
+    {
+      "id": "24952961",
+      "title": "解放战争（上）（1945年8月～1948年9月）",
+      "author": "王树增",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/961/24952961/t6_24952961.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e2432a20717cc081e247512"
+    },
+    {
+      "id": "674044",
+      "title": "我与地坛",
+      "author": "史铁生",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/44/674044/t6_674044.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=43f327705a48fc43feb9160"
+    },
+    {
+      "id": "651363",
+      "title": "西方哲学十五讲",
+      "author": "张志伟",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/363/651363/t6_651363.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e233212059f063e23e03924"
+    },
+    {
+      "id": "934365",
+      "title": "西方哲学史：从古希腊到当下",
+      "author": "奎纳尔·希尔贝克 尼尔斯·吉列尔",
+      "cover": "https://cdn.weread.qq.com/weread/cover/92/YueWen_934365/t6_YueWen_934365.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=5aa32d705e41dd5aaf9ea31"
+    },
+    {
+      "id": "34631845",
+      "title": "西游记（人民文学版）",
+      "author": "[明]吴承恩",
+      "cover": "https://cdn.weread.qq.com/weread/cover/22/yuewen_34631845/t6_yuewen_346318451676961764.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=64032210721070a5640294f"
+    },
+    {
+      "id": "3300072295",
+      "title": "太白金星有点烦",
+      "author": "马伯庸",
+      "cover": "https://cdn.weread.qq.com/weread/cover/72/cpplatform_huhykqamxcvke1jfkpqxiv/t6_cpplatform_huhykqamxcvke1jfkpqxiv1695711014.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=23e32130813ab82bdg015cd2"
+    },
+    {
+      "id": "3300082815",
+      "title": "五灯会元校注（第一册）",
+      "author": "曾琦云",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_wmhy9by7galkgf6pid2eh3/t6_cpplatform_wmhy9by7galkgf6pid2eh31703752556.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a4032c60813ab86d9g01542e"
+    },
+    {
+      "id": "24973751",
+      "title": "离婚",
+      "author": "老舍",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t6_24973751.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=0d1326c0717d11b70d1ff40"
+    },
+    {
+      "id": "23308561",
+      "title": "你应该熟读的中国古词",
+      "author": "陈引驰编著",
+      "cover": "https://cdn.weread.qq.com/weread/cover/94/YueWen_23308561/t6_YueWen_23308561.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=da932b407163a911da91228"
+    },
+    {
+      "id": "24965201",
+      "title": "平凡的世界（全三册）",
+      "author": "路遥",
+      "cover": "https://cdn.weread.qq.com/weread/cover/61/yuewen_24965201/t6_yuewen_249652011682413401.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=18832880717cf0511881c78"
+    },
+    {
+      "id": "26675421",
+      "title": "二十五史简明读本·史记",
+      "author": "李国章 赵昌平主编",
+      "cover": "https://cdn.weread.qq.com/weread/cover/59/YueWen_26675421/t6_YueWen_26675421.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=00332a00719708dd003ff59"
+    },
+    {
+      "id": "3300076264",
+      "title": "李光耀观天下（精装版）",
+      "author": "李光耀",
+      "cover": "https://cdn.weread.qq.com/weread/cover/79/cpplatform_wdghcvhzndnxtmgbbdm5dg/t6_cpplatform_wdghcvhzndnxtmgbbdm5dg1698833759.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=63c32e90813ab844ag014d47"
+    },
+    {
+      "id": "834467",
+      "title": "在细雨中呼喊",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/4/yuewen_834467/t6_yuewen_8344671758542700.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=801324d05cbba380129b0a1"
+    },
+    {
+      "id": "25164497",
+      "title": "人生",
+      "author": "路遥",
+      "cover": "https://cdn.weread.qq.com/weread/cover/70/yuewen_25164497/t6_yuewen_251644971679989190.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=4b432b80717ffad14b4fff8"
+    },
+    {
+      "id": "33514741",
+      "title": "我与地坛（插图版）",
+      "author": "史铁生",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/741/33514741/t6_33514741.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=48432c1071ff64f54849ef8"
+    },
+    {
+      "id": "855327",
+      "title": "悉达多（果麦经典）",
+      "author": "[德]赫尔曼·黑塞",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/YueWen_855327/t6_YueWen_855327.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=3a832f705d0d1f3a8ec72ff"
+    },
+    {
+      "id": "3300076266",
+      "title": "东晋门阀政治",
+      "author": "田余庆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/39/cpplatform_9zn5ga7zqrpmcctvec2pvy/t6_cpplatform_9zn5ga7zqrpmcctvec2pvy1721280383.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f5232ea0813ab844ag016fa0"
+    },
+    {
+      "id": "41135845",
+      "title": "微尘",
+      "author": "陈年喜",
+      "cover": "https://cdn.weread.qq.com/weread/cover/19/YueWen_41135845/t6_YueWen_41135845.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=aec324807273aee5aeccf89"
+    },
+    {
+      "id": "29855984",
+      "title": "三国演义（人民文学版）",
+      "author": "[明]罗贯中",
+      "cover": "https://cdn.weread.qq.com/weread/cover/20/yuewen_29855984/t6_yuewen_298559841676969263.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=73c32c5071c790f073c460a"
+    },
+    {
+      "id": "3300023509",
+      "title": "魏晋南北朝史（中国断代史系列）",
+      "author": "王仲荦",
+      "cover": "https://cdn.weread.qq.com/weread/cover/9/3300023509/t6_3300023509.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=47e32d60813ab6faeg01919d"
+    },
+    {
+      "id": "822995",
+      "title": "明朝那些事儿（全集）",
+      "author": "当年明月",
+      "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/t6_yuewen_8229951695023669.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a57325c05c8ed3a57224187"
+    },
+    {
+      "id": "830181",
+      "title": "两晋通俗演义",
+      "author": "[清]蔡东藩",
+      "cover": "https://cdn.weread.qq.com/weread/cover/77/YueWen_830181/t6_YueWen_830181.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e0832c705caae5e08d88992"
+    },
+    {
+      "id": "3300092145",
+      "title": "西洋史：欧洲文明二十讲",
+      "author": "陈衡哲",
+      "cover": "https://cdn.weread.qq.com/weread/cover/37/cpplatform_133nfkcrckiyyv1bvarych/t6_cpplatform_133nfkcrckiyyv1bvarych1711697736.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b2132a70813ab8a7eg0159a6"
+    },
+    {
+      "id": "22791651",
+      "title": "《金刚经》说什么",
+      "author": "南怀瑾",
+      "cover": "https://cdn.weread.qq.com/weread/cover/87/YueWen_22791651/t6_YueWen_22791651.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e5832360715bc5e3e581083"
+    },
+    {
+      "id": "22720170",
+      "title": "小王子（英文版）",
+      "author": "圣埃克絮佩里",
+      "cover": "https://cdn.weread.qq.com/weread/cover/53/YueWen_22720170/t6_YueWen_22720170.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=cf132190715aaeaacf12d9b"
+    },
+    {
+      "id": "3300010685",
+      "title": "一地鸡毛（典藏版）",
+      "author": "刘震云",
+      "cover": "https://cdn.weread.qq.com/weread/cover/85/3300010685/t6_3300010685.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=0fa322d0813ab6aacg0159fd"
+    },
+    {
+      "id": "3300003224",
+      "title": "长安的荔枝（同名影视原著）",
+      "author": "马伯庸",
+      "cover": "https://cdn.weread.qq.com/weread/cover/75/cpPlatform_dbb14284a55f1e733b60202b0777255d/t6_cpPlatform_dbb14284a55f1e733b60202b0777255d.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=cc932860813ab67c2g014597"
+    },
+    {
+      "id": "23723810",
+      "title": "如何阅读一本书",
+      "author": "莫提默·艾德勒 查尔斯·范多伦",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/810/23723810/t6_23723810.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=272326407169ff22272934f"
+    },
+    {
+      "id": "36212434",
+      "title": "月亮与六便士（人文社外国文学名著经典·网格本）",
+      "author": "萨默塞特·毛姆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/49/YueWen_36212434/t6_YueWen_36212434.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=bac3270072288ed2bac13fd"
+    },
+    {
+      "id": "860441",
+      "title": "你应该熟读的中国古文",
+      "author": "陈引驰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/51/YueWen_860441/t6_YueWen_860441.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=212326b05d211921261391a"
+    },
+    {
+      "id": "32468069",
+      "title": "麦琪的礼物：欧·亨利短篇小说集",
+      "author": "[美]欧·亨利",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/69/32468069/t6_32468069.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=92232fa071ef6c659227fc9"
+    },
+    {
+      "id": "703157",
+      "title": "苏菲的世界",
+      "author": "乔斯坦·贾德",
+      "cover": "https://cdn.weread.qq.com/weread/cover/13/YueWen_703157/t6_YueWen_703157.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9ef32b805abab59ef601a6c"
+    },
+    {
+      "id": "38475614",
+      "title": "天变不足畏：王安石变法的细节",
+      "author": "刘羽权",
+      "cover": "https://cdn.weread.qq.com/weread/cover/60/YueWen_38475614/t6_YueWen_38475614.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9d832e80724b175e9d8b21a"
+    },
+    {
+      "id": "834465",
+      "title": "许三观卖血记",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/2/yuewen_834465/t6_yuewen_8344651758512100.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b1a327905cbba1b1ad515cf"
+    },
+    {
+      "id": "35991932",
+      "title": "大国政治的悲剧（修订版）",
+      "author": "约翰·米尔斯海默",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/932/35991932/t6_35991932.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=651321307225317c6513c51"
+    },
+    {
+      "id": "910627",
+      "title": "洛夫长诗",
+      "author": "洛夫",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/627/910627/t6_910627.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f8b326b05de523f8b0eb681"
+    },
+    {
+      "id": "23507652",
+      "title": "狂人日记：鲁迅小说集",
+      "author": "鲁迅",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/652/23507652/t6_23507652.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=85d325c07166b2c485d867d"
+    },
+    {
+      "id": "35991907",
+      "title": "第二次世界大战战史",
+      "author": "李德·哈特",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/907/35991907/t6_35991907.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=98832770722531639889d34"
+    },
+    {
+      "id": "26295687",
+      "title": "从一到无穷大（果麦经典）",
+      "author": "乔治·伽莫夫",
+      "cover": "https://cdn.weread.qq.com/weread/cover/67/YueWen_26295687/t6_YueWen_26295687.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d8732de071913d87d8751c1"
+    },
+    {
+      "id": "23523074",
+      "title": "国史大纲（全2册）",
+      "author": "钱穆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/56/yuewen_23523074/t6_yuewen_235230741689835411.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=427326807166ef024271b86"
+    },
+    {
+      "id": "3300020525",
+      "title": "文城",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/25/3300020525/t6_3300020525.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=dbc32e60813ab6e84g0159d0"
+    },
+    {
+      "id": "3300036999",
+      "title": "万历十五年（经典版）",
+      "author": "[美]黄仁宇",
+      "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_wFh3Z1Xnp72HsAox1y9nUb/t6_cpPlatform_wFh3Z1Xnp72HsAox1y9nUb.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=af732390813ab74f3g019ddd"
+    },
+    {
+      "id": "23364890",
+      "title": "中国古代文化常识（插图修订第4版）",
+      "author": "王力",
+      "cover": "https://cdn.weread.qq.com/weread/cover/83/YueWen_23364890/t6_YueWen_23364890.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=36832c507164851a368ca1b"
+    },
+    {
+      "id": "3300014618",
+      "title": "张居正大传",
+      "author": "朱东润",
+      "cover": "https://cdn.weread.qq.com/weread/cover/18/3300014618/t6_3300014618.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=5c9321e0813ab6c35g018a18"
+    },
+    {
+      "id": "35991902",
+      "title": "宋史",
+      "author": "陈振",
+      "cover": "https://cdn.weread.qq.com/weread/cover/8/YueWen_35991902/t6_YueWen_35991902.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e5032fe07225315ee50d972"
+    },
+    {
+      "id": "859919",
+      "title": "昆仑（全集）",
+      "author": "凤歌",
+      "cover": "https://cdn.weread.qq.com/weread/cover/69/YueWen_859919/t6_YueWen_859919.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b2532c005d1f0fb253fc755"
+    },
+    {
+      "id": "3300043025",
+      "title": "怪圈",
+      "author": "吕峥",
+      "cover": "https://cdn.weread.qq.com/weread/cover/19/cpPlatform_kb8uf2BwEEGKCcUV18TNp5/t6_cpPlatform_kb8uf2BwEEGKCcUV18TNp5.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d3232ef0813ab774eg015848"
+    },
+    {
+      "id": "40527660",
+      "title": "老人与海（译文经典）",
+      "author": "海明威",
+      "cover": "https://cdn.weread.qq.com/weread/cover/26/YueWen_40527660/t6_YueWen_40527660.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=613325e0726a672c613c2fe"
+    },
+    {
+      "id": "934374",
+      "title": "小径分岔的花园",
+      "author": "[阿根廷]豪尔赫·路易斯·博尔赫斯",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/374/934374/t6_934374.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=c3b32c805e41e6c3b9eb04f"
+    },
+    {
+      "id": "838857",
+      "title": "唐诗三百首",
+      "author": "[清]蘅塘退士",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/857/838857/t6_838857.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=55b32c705cccc955bb0fdd4"
+    },
+    {
+      "id": "919898",
+      "title": "楚辞：朱熹集注今译本",
+      "author": "[宋]朱熹",
+      "cover": "https://cdn.weread.qq.com/weread/cover/6/YueWen_919898/t6_YueWen_919898.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=b2232de05e095ab2246ef70"
+    },
+    {
+      "id": "847306",
+      "title": "宋词三百首（中华国学经典精粹）",
+      "author": "朱孝臧选编",
+      "cover": "https://cdn.weread.qq.com/weread/cover/14/YueWen_847306/t6_YueWen_847306.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ebc322b05cedcaebc5e9771"
+    },
+    {
+      "id": "936063",
+      "title": "瓦尔登湖（特别纪念版）",
+      "author": "[美]亨利·戴维·梭罗",
+      "cover": "https://cdn.weread.qq.com/weread/cover/89/YueWen_936063/t6_YueWen_936063.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=fbd325c05e487ffbd99ae03"
+    },
+    {
+      "id": "24273603",
+      "title": "宋史专题课",
+      "author": "邓广铭 漆侠",
+      "cover": "https://cdn.weread.qq.com/weread/cover/65/YueWen_24273603/t6_YueWen_24273603.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=37b32dd0717262c337b4710"
+    },
+    {
+      "id": "728774",
+      "title": "第七天",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/71/yuewen_728774/t6_yuewen_7287741682413408.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a14323405b1ec6a147a2c71"
+    },
+    {
+      "id": "814146",
+      "title": "一个叫欧维的男人决定去死（同名电影原著）",
+      "author": "弗雷德里克·巴克曼",
+      "cover": "https://cdn.weread.qq.com/weread/cover/16/yuewen_814146/t6_yuewen_8141461689328417.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=04832c405c6c4204842b439"
+    },
+    {
+      "id": "31390720",
+      "title": "集中攻破新托业高频单词",
+      "author": "曾婷郁 钟亚捷",
+      "cover": "https://cdn.weread.qq.com/weread/cover/33/YueWen_31390720/t6_YueWen_31390720.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=07b32c3071defc0007b166a"
+    },
+    {
+      "id": "43896728",
+      "title": "不能承受的生命之轻（米兰·昆德拉作品系列·2022版）",
+      "author": "[法]米兰·昆德拉",
+      "cover": "https://cdn.weread.qq.com/weread/cover/3/YueWen_43896728/t6_YueWen_43896728.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d9f32bf0729dcf98d9fccdb"
+    },
+    {
+      "id": "24953428",
+      "title": "分成两半的子爵",
+      "author": "伊塔洛·卡尔维诺",
+      "cover": "https://cdn.weread.qq.com/weread/cover/77/YueWen_24953428/t6_YueWen_24953428.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=84432fd0717cc254844d232"
+    },
+    {
+      "id": "39481974",
+      "title": "历史的面孔",
+      "author": "徐涛",
+      "cover": "https://cdn.weread.qq.com/weread/cover/23/YueWen_39481974/t6_YueWen_39481974.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=35432380725a7276354c1c3"
+    },
+    {
+      "id": "26297920",
+      "title": "PostgreSQL指南：内幕探索",
+      "author": "铃木启修",
+      "cover": "https://cdn.weread.qq.com/weread/cover/39/YueWen_26297920/t6_YueWen_26297920.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=56032a3071914640560e288"
+    },
+    {
+      "id": "25791014",
+      "title": "宋史十讲",
+      "author": "邓广铭",
+      "cover": "https://cdn.weread.qq.com/weread/cover/15/YueWen_25791014/t6_YueWen_25791014.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=083329b071898a26083ed01"
+    },
+    {
+      "id": "27403440",
+      "title": "芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）",
+      "author": "古华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/2/YueWen_27403440/t6_YueWen_27403440.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=cba32c5071a224b0cba2822"
+    },
+    {
+      "id": "834464",
+      "title": "活着",
+      "author": "余华",
+      "cover": "https://cdn.weread.qq.com/weread/cover/1/yuewen_834464/t6_yuewen_8344641758521403.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=33332bf05cbba0333b1efb4"
+    },
+    {
+      "id": "3300049180",
+      "title": "小巷人家（同名影视原著）",
+      "author": "大米",
+      "cover": "https://cdn.weread.qq.com/weread/cover/32/cpplatform_wxxo2bpco5xlabw5b7y38v/t6_cpplatform_wxxo2bpco5xlabw5b7y38v1705993399.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=41532d00813ab79b6g010ac3"
+    },
+    {
+      "id": "3300058407",
+      "title": "从零开始读懂Web3",
+      "author": "Anymose",
+      "cover": "https://cdn.weread.qq.com/weread/cover/44/cpplatform_hvithxabbmutprzdgvkmm5/t6_cpplatform_hvithxabbmutprzdgvkmm51683710522.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=1ce32b00813ab7d50g01799e"
+    },
+    {
+      "id": "928768",
+      "title": "巴菲特致股东的信：投资者和公司高管教程（原书第4版）",
+      "author": "沃伦E.巴菲特 劳伦斯A.坎宁安",
+      "cover": "https://cdn.weread.qq.com/weread/cover/82/YueWen_928768/t6_YueWen_928768.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=8cb322605e2c008cb4c4217"
+    },
+    {
+      "id": "27689985",
+      "title": "三个火枪手（果麦经典）",
+      "author": "[法]大仲马",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/985/27689985/t6_27689985.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a1632e0071a68401a168bc1"
+    },
+    {
+      "id": "33820355",
+      "title": "乡土中国",
+      "author": "费孝通",
+      "cover": "https://cdn.weread.qq.com/weread/cover/49/YueWen_33820355/t6_YueWen_33820355.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=45e32a6072040ec345ea8c7"
+    },
+    {
+      "id": "3300029089",
+      "title": "罗马：从王政到共和（美国国家地理全球史）",
+      "author": "美国国家地理学会 编著 李恋晨译",
+      "cover": "https://cdn.weread.qq.com/weread/cover/64/cpPlatform_43n4SUn4NKnFFA5ocqUrSb/t6_cpPlatform_43n4SUn4NKnFFA5ocqUrSb.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=36032ac0813ab71dcg019423"
+    },
+    {
+      "id": "3300022800",
+      "title": "我叫刘跃进",
+      "author": "刘震云",
+      "cover": "https://cdn.weread.qq.com/weread/cover/36/cpPlatform_qm9Hbn87rjvNcsAvtEwhfF/t6_cpPlatform_qm9Hbn87rjvNcsAvtEwhfF.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=81d327f0813ab6f68g010276"
+    },
+    {
+      "id": "730561",
+      "title": "深入浅出MySQL：数据库开发、优化与管理维护（第2版）",
+      "author": "唐汉明 翟振兴 关宝军 王洪权 黄潇",
+      "cover": "https://cdn.weread.qq.com/weread/cover/72/YueWen_730561/t6_YueWen_730561.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f3e327e05b25c1f3e6d5ee2"
+    },
+    {
+      "id": "31515010",
+      "title": "牛津古希腊史",
+      "author": "约翰·博德曼等",
+      "cover": "https://cdn.weread.qq.com/weread/cover/84/YueWen_31515010/t6_YueWen_31515010.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=4b532d7071e0e1824b51d30"
+    },
+    {
+      "id": "22806945",
+      "title": "你不知道的JavaScript（上卷）",
+      "author": "凯尔辛普森",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/945/22806945/t6_22806945.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=8c632230715c01a18c683d8"
+    },
+    {
+      "id": "3300033043",
+      "title": "始于极限：女性主义往复书简",
+      "author": "[日]上野千鹤子 [日]铃木凉美",
+      "cover": "https://cdn.weread.qq.com/weread/cover/11/cpPlatform_fLkPGcXyQDk1Dogx6F3uxA/t6_cpPlatform_fLkPGcXyQDk1Dogx6F3uxA.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=aab32550813ab7368g013d4a"
+    },
+    {
+      "id": "40638598",
+      "title": "魔鬼经济学1：揭示隐藏在表象之下的真实世界（第二版）",
+      "author": "史蒂芬·列维特 史蒂芬·都伯纳",
+      "cover": "https://cdn.weread.qq.com/weread/cover/65/YueWen_40638598/t6_YueWen_40638598.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=88432de0726c1886884ee7d"
+    },
+    {
+      "id": "3300022831",
+      "title": "北宋觉醒——庆历新政与鼎革之殇",
+      "author": "蔡晓琳",
+      "cover": "https://cdn.weread.qq.com/weread/cover/45/cpPlatform_8jexGM1DtJPAG1MCqR8zSE/t6_cpPlatform_8jexGM1DtJPAG1MCqR8zSE.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=6b732db0813ab6f6bg011e4a"
+    },
+    {
+      "id": "178676",
+      "title": "三体3·死神永生",
+      "author": "刘慈欣",
+      "cover": "https://cdn.weread.qq.com/weread/cover/47/yuewen_178676/t6_yuewen_1786761784884460.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=734325d052b9f4734d6a816"
+    },
+    {
+      "id": "26278269",
+      "title": "苏轼传",
+      "author": "王水照 崔铭",
+      "cover": "https://cdn.weread.qq.com/weread/cover/94/YueWen_26278269/t6_YueWen_26278269.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ec332f707190f97dec3e09f"
+    },
+    {
+      "id": "3300014116",
+      "title": "聪明的投资者（第4版，注疏点评版）",
+      "author": "[美]本杰明·格雷厄姆 [美]贾森·兹威格　著",
+      "cover": "https://cdn.weread.qq.com/weread/cover/16/3300014116/t6_3300014116.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=08d329d0813ab6c03g016242"
+    },
+    {
+      "id": "32307641",
+      "title": "何为良好生活：行之于途而应于心",
+      "author": "陈嘉映",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/YueWen_32307641/t6_YueWen_32307641.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=4e83230071ecf9b94e8356a"
+    },
+    {
+      "id": "183526",
+      "title": "三体2·黑暗森林",
+      "author": "刘慈欣",
+      "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_183526/t6_yuewen_1835261784884457.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=6a4328e052cce66a4ee868d"
+    },
+    {
+      "id": "3300034020",
+      "title": "父母的语言",
+      "author": "吴学刚",
+      "cover": "https://cdn.weread.qq.com/weread/cover/44/cpPlatform_fAxJ14RQatuD2rtAy47PgR/t6_cpPlatform_fAxJ14RQatuD2rtAy47PgR.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=4ea325c0813ab73cag010658"
+    },
+    {
+      "id": "178677",
+      "title": "三体1",
+      "author": "刘慈欣",
+      "cover": "https://cdn.weread.qq.com/weread/cover/48/yuewen_178677/t6_yuewen_1786771784884459.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=16b327b052b9f516bffa427"
+    },
+    {
+      "id": "909531",
+      "title": "中国近代史",
+      "author": "蒋廷黻",
+      "cover": "https://cdn.weread.qq.com/weread/cover/9/YueWen_909531/t6_YueWen_909531.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d77324305de0dbd77b05264"
+    },
+    {
+      "id": "25184495",
+      "title": "当我谈跑步时，我谈些什么",
+      "author": "[日]村上春树",
+      "cover": "https://cdn.weread.qq.com/weread/cover/10/yuewen_25184495/t6_yuewen_251844951740049944.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=5aa32dc0718048ef5aab966"
+    },
+    {
+      "id": "674073",
+      "title": "沧浪之水",
+      "author": "阎真",
+      "cover": "https://cdn.weread.qq.com/weread/cover/49/yuewen_674073/t6_yuewen_6740731774011595.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=7c632ef05a49197c62b53f0"
+    },
+    {
+      "id": "24919512",
+      "title": "大学中庸（跟名家读经典）",
+      "author": "钱逊",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/512/24919512/t6_24919512.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=8d232840717c3dd88d2fdd4"
+    },
+    {
+      "id": "26778185",
+      "title": "明治天皇：1852—1912",
+      "author": "唐纳德·基恩",
+      "cover": "https://cdn.weread.qq.com/weread/cover/26/YueWen_26778185/t6_YueWen_26778185.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=73932e8071989a4973911f5"
+    },
+    {
+      "id": "34630774",
+      "title": "大宋之变，1063—1086",
+      "author": "赵冬梅",
+      "cover": "https://cdn.weread.qq.com/weread/cover/62/yuewen_34630774/t6_yuewen_346307741732263903.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ef33296072106c76ef3531e"
+    },
+    {
+      "id": "797374",
+      "title": "五人墓碑记",
+      "author": "[明]张溥",
+      "cover": "https://cdn.weread.qq.com/weread/cover/35/yuewen_797374/t6_yuewen_7973741679661313.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f56322f05c2abef56cb9b35"
+    },
+    {
+      "id": "921030",
+      "title": "中国文化的深层结构",
+      "author": "孙隆基",
+      "cover": "https://cdn.weread.qq.com/weread/cover/53/yuewen_921030/t6_yuewen_9210301707287100.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=86132be05e0dc6861100607"
+    },
+    {
+      "id": "25398011",
+      "title": "棋王（同名电影原著）",
+      "author": "阿城",
+      "cover": "https://cdn.weread.qq.com/weread/cover/1/YueWen_25398011/t6_YueWen_25398011.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2b632d0071838afb2b689aa"
+    },
+    {
+      "id": "25445341",
+      "title": "道德经（中华国学经典精粹）",
+      "author": "[春秋]老子",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/341/25445341/t6_25445341.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=e7d32910718443dde7d8d46"
+    },
+    {
+      "id": "926378",
+      "title": "天朝的崩溃：鸦片战争再研究（修订版）",
+      "author": "茅海建",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/378/926378/t6_926378.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=68c32bf05e22aa68c605298"
+    },
+    {
+      "id": "846684",
+      "title": "妻妾成群（电影《大红灯笼高高挂》原著）",
+      "author": "苏童",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/684/846684/t6_846684.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=068322d05ceb5c068b056f0"
+    },
+    {
+      "id": "25789418",
+      "title": "中国佛教史（中国文化丛书·经典随行）",
+      "author": "蒋维乔",
+      "cover": "https://cdn.weread.qq.com/weread/cover/18/YueWen_25789418/t6_YueWen_25789418.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=24232680718983ea2428b0e"
+    },
+    {
+      "id": "37726156",
+      "title": "她来自马里乌波尔（欧洲文明悲剧全景，揭示乌克兰人不为人知的命运）",
+      "author": "娜塔莎·沃丁",
+      "cover": "https://cdn.weread.qq.com/weread/cover/87/YueWen_37726156/t6_YueWen_37726156.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a1832720723fa7cca18839b"
+    },
+    {
+      "id": "25030242",
+      "title": "毛泽东的书单",
+      "author": "高海萍 张云燕",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/242/25030242/t6_25030242.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=9de32550717dee629dea014"
+    },
+    {
+      "id": "315854",
+      "title": "中国通史",
+      "author": "吕思勉",
+      "cover": "https://cdn.weread.qq.com/weread/cover/92/YueWen_315854/t6_YueWen_315854.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=181329a054d1ce181a61272"
+    },
+    {
+      "id": "3300012940",
+      "title": "法治的细节",
+      "author": "罗翔",
+      "cover": "https://cdn.weread.qq.com/weread/cover/40/3300012940/t6_3300012940.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=be832770813ab6b8eg01004a"
+    },
+    {
+      "id": "35039164",
+      "title": "历史深处的民国1：晚清",
+      "author": "江城",
+      "cover": "https://cdn.weread.qq.com/weread/cover/27/YueWen_35039164/t6_YueWen_35039164.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=8da32e907216a7bc8daa45e"
+    },
+    {
+      "id": "26079438",
+      "title": "论语（古典名著普及文库）",
+      "author": "[春秋]孔子著 杨伯峻 杨逢彬注译 杨柳岸导读",
+      "cover": "https://cdn.weread.qq.com/weread/cover/39/YueWen_26079438/t6_YueWen_26079438.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a55325f0718df0cea554f19"
+    },
+    {
+      "id": "38259804",
+      "title": "宏观经济通识课",
+      "author": "韩秀云",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/804/38259804/t6_38259804.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=32b32cf07247cc5c32b4f3a"
+    },
+    {
+      "id": "811768",
+      "title": "假如给我三天光明",
+      "author": "[美]海伦·凯勒",
+      "cover": "https://cdn.weread.qq.com/weread/cover/37/YueWen_811768/t6_YueWen_811768.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=5cd32a305c62f85cd069296"
+    },
+    {
+      "id": "35039167",
+      "title": "历史深处的民国2：共和",
+      "author": "江城",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/167/35039167/t6_35039167.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a96323207216a7bfa961f91"
+    },
+    {
+      "id": "35039169",
+      "title": "历史深处的民国3：重生",
+      "author": "江城",
+      "cover": "https://cdn.weread.qq.com/weread/cover/32/YueWen_35039169/t6_YueWen_35039169.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=a6c32af07216a7c1a6c3c5d"
+    },
+    {
+      "id": "26435429",
+      "title": "檀香刑【中国诺奖得主代表作】",
+      "author": "莫言",
+      "cover": "https://cdn.weread.qq.com/weread/cover/81/yuewen_26435429/t6_yuewen_264354291701748545.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=1e03256071935f651e0050c"
+    },
+    {
+      "id": "855812",
+      "title": "人类简史：从动物到上帝",
+      "author": "尤瓦尔·赫拉利",
+      "cover": "https://cdn.weread.qq.com/weread/cover/37/YueWen_855812/t6_YueWen_855812.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d4a322a05d0f04d4a01f0d6"
+    },
+    {
+      "id": "522620",
+      "title": "在绝望中寻找希望：俞敏洪写给迷茫不安的年轻人",
+      "author": "俞敏洪",
+      "cover": "https://cdn.weread.qq.com/weread/cover/95/YueWen_522620/t6_YueWen_522620.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=6b63280057f97c6b6461e12"
+    },
+    {
+      "id": "23601930",
+      "title": "富爸爸穷爸爸",
+      "author": "罗伯特·清崎",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/YueWen_23601930/t6_YueWen_23601930.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=ada325807168230aada7458"
+    },
+    {
+      "id": "840995",
+      "title": "万历十五年（精装版）",
+      "author": "黄仁宇",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/995/840995/t6_840995.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=091322d05cd5230913042e3"
+    },
+    {
+      "id": "831424",
+      "title": "菊与刀（果麦经典）",
+      "author": "本尼迪克特",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/YueWen_831424/t6_YueWen_831424.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2a632ba05cafc02a6e741ac"
+    },
+    {
+      "id": "25066071",
+      "title": "断舍离",
+      "author": "山下英子",
+      "cover": "https://cdn.weread.qq.com/weread/cover/53/yuewen_25066071/t6_yuewen_250660711719306927.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=f9932900717e7a57f99c027"
+    },
+    {
+      "id": "25298416",
+      "title": "从前的我也很可爱啊",
+      "author": "石川啄木",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/416/25298416/t6_25298416.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=7e7322f0718205f07e731f5"
+    },
+    {
+      "id": "650985",
+      "title": "国富论",
+      "author": "亚当·斯密",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/985/650985/t6_650985.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=6c4324d059eee96c43a4b3e"
+    },
+    {
+      "id": "34157014",
+      "title": "塔木德：犹太人的经商智慧与处世圣经",
+      "author": "塔尔莱特·赫里姆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/93/yuewen_34157014/t6_yuewen_341570141764815602.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=d6232560720931d6d622af4"
+    },
+    {
+      "id": "807435",
+      "title": "经济运行的逻辑（中国金融四十人论坛书系）（精装）",
+      "author": "高善文",
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/435/807435/t6_807435.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=2dd321205c520b2dd1acb86"
+    },
+    {
+      "id": "34632174",
+      "title": "顾城的诗",
+      "author": "顾城",
+      "cover": "https://cdn.weread.qq.com/weread/cover/54/YueWen_34632174/t6_YueWen_34632174.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=7c532220721071ee7c566c7"
+    }
+  ]
+}

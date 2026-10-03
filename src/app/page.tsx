@@ -2,11 +2,12 @@ import NextLogo from '@/components/NextLogo';
 import Portfolio from '@/components/Portfolio';
 import ResumeMenu from '@/components/ResumeMenu';
 import ToolkitMenu from '@/components/ToolkitMenu';
+import ReadingShelf from '@/components/ReadingShelf';
 
 export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
+      <main className="flex min-w-0 w-full max-w-2xl flex-col gap-8 row-start-2 items-center sm:items-start">
         <NextLogo />
         <ul className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
@@ -32,6 +33,7 @@ export default function Home() {
         </div>
 
         <Portfolio />
+        <ReadingShelf />
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center"></footer>
     </div>
