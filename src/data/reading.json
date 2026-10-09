@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-10-08T00:35:18.049Z",
+  "syncedAt": "2026-10-09T00:50:29.311Z",
   "books": [
+    {
+      "id": "29313492",
+      "title": "黎东方讲史之续·细说隋唐",
+      "author": "赵建敏",
+      "cover": "https://cdn.weread.qq.com/weread/cover/19/YueWen_29313492/t6_YueWen_29313492.jpg",
+      "url": "https://weread.qq.com/book-detail?type=1&v=77032b5071bf49d4770a15d"
+    },
     {
       "id": "437924",
       "title": "六祖坛经讲话",
