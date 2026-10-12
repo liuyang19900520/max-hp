@@ -36,3 +36,9 @@ jobs:
           git add src/data/reading.json
           git commit -m 'chore: sync public finished books from WeRead'
           git push origin HEAD:main
+      - name: Report sync failure
+        if: failure()
+        run: |
+          echo '::error::WeRead synchronization failed. The production shelf still shows the last successful sync. Check the failed step for API authentication or skill version errors.'
+          echo '### WeRead sync failed' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The previous book list and Last synced timestamp were preserved. Review the API key and the official Tencent/WeChatReading skill version.' >> "$GITHUB_STEP_SUMMARY"
