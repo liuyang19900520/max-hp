@@ -7,13 +7,15 @@ if (!key) throw new Error('Set WEREAD_API_KEY to sync the reading shelf.');
 const response = await fetch('https://i.weread.qq.com/api/agent/gateway', {
   method: 'POST',
   headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-  body: JSON.stringify({ api_name: '/shelf/sync', skill_version: '1.0.4' }),
+  body: JSON.stringify({ api_name: '/shelf/sync', skill_version: '1.0.5' }),
   signal: AbortSignal.timeout(30_000),
 });
 if (!response.ok) throw new Error(`WeRead request failed (${response.status}).`);
 const result = await response.json();
 if (result.upgrade_info)
-  throw new Error('WeRead skill upgrade required; update the integration before syncing.');
+  throw new Error(
+    'WeRead skill upgrade required; review Tencent/WeChatReading and update skill_version before syncing.'
+  );
 if (result.errcode) throw new Error('WeRead rejected the request; check the API key.');
 const shelf = result.data ?? result;
 if (!Array.isArray(shelf.books))
@@ -39,7 +41,7 @@ const books = shelf.books
     title: String(book.title ?? ''),
     author: String(book.author ?? ''),
     cover: safeUrl(book.cover),
-    url: safeUrl(book.deepLink),
+    url: safeUrl(book.readerLink) ?? safeUrl(book.deepLink),
   }));
 const directory = fileURLToPath(new URL('../src/data/', import.meta.url));
 await mkdir(directory, { recursive: true });
