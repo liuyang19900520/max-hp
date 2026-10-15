@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-10-14T23:32:59.463Z",
+  "syncedAt": "2026-10-15T23:26:08.965Z",
   "books": [
+    {
+      "id": "3300059465",
+      "title": "简单的逻辑学：清晰思考的起点",
+      "author": "D.Q.麦克伦尼",
+      "cover": "https://cdn.weread.qq.com/weread/cover/45/cpplatform_ktzrcrwh9ftrdgiu2sxkrm/t6_cpplatform_ktzrcrwh9ftrdgiu2sxkrm1684812979.jpg",
+      "url": "https://weread.qq.com/web/reader/7d532990813ab7dbag015cf5"
+    },
     {
       "id": "40400989",
       "title": "骆驼祥子（人文社·语文阅读推荐丛书）",
