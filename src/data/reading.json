@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-10-21T23:48:42.669Z",
+  "syncedAt": "2026-10-22T23:47:00.504Z",
   "books": [
+    {
+      "id": "3300148747",
+      "title": "哲学导论",
+      "author": "王德峰",
+      "cover": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_jxpph9cbdrqaahmswuussg/t6_cpplatform_jxpph9cbdrqaahmswuussg1749809675.jpg",
+      "url": "https://weread.qq.com/web/reader/52e32bb0813aba09ag017aee"
+    },
     {
       "id": "3300059465",
       "title": "简单的逻辑学：清晰思考的起点",
