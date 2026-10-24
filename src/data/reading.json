@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-10-23T23:40:47.419Z",
+  "syncedAt": "2026-10-24T22:47:23.829Z",
   "books": [
+    {
+      "id": "3300016646",
+      "title": "可能性的艺术：比较政治学30讲",
+      "author": "刘瑜",
+      "cover": "https://cdn.weread.qq.com/weread/cover/46/3300016646/t6_3300016646.jpg",
+      "url": "https://weread.qq.com/web/reader/9ea325a0813ab6d00g01640c"
+    },
     {
       "id": "3300148747",
       "title": "哲学导论",
@@ -504,13 +511,6 @@
       "author": "胡宝国著",
       "cover": "https://cdn.weread.qq.com/weread/cover/86/cpPlatform_cLAQ8jMCao8cbnyF7QN8cS/t6_cpPlatform_cLAQ8jMCao8cbnyF7QN8cS.jpg",
       "url": "https://weread.qq.com/web/reader/17732160813ab74f1g013801"
-    },
-    {
-      "id": "3300016646",
-      "title": "可能性的艺术：比较政治学30讲",
-      "author": "刘瑜",
-      "cover": "https://cdn.weread.qq.com/weread/cover/46/3300016646/t6_3300016646.jpg",
-      "url": "https://weread.qq.com/web/reader/9ea325a0813ab6d00g01640c"
     },
     {
       "id": "3300012339",
