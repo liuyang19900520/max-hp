@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-10-24T22:47:23.829Z",
+  "syncedAt": "2026-10-25T22:56:03.986Z",
   "books": [
+    {
+      "id": "3300222271",
+      "title": "形而上学导读",
+      "author": "吴永占",
+      "cover": "https://cdn.weread.qq.com/weread/cover/36/cpplatform_araoa119tr4zavdvnum1br/t6_cpplatform_araoa119tr4zavdvnum1br1785494205.jpg",
+      "url": "https://weread.qq.com/web/reader/611329e0813abbd53g0118a9"
+    },
     {
       "id": "3300016646",
       "title": "可能性的艺术：比较政治学30讲",
