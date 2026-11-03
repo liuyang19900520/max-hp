@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-11-02T00:02:40.995Z",
+  "syncedAt": "2026-11-03T02:43:07.092Z",
   "books": [
+    {
+      "id": "32219280",
+      "title": "长日将尽（译文经典）",
+      "author": "石黑一雄",
+      "cover": "https://cdn.weread.qq.com/weread/cover/63/YueWen_32219280/t6_YueWen_32219280.jpg",
+      "url": "https://weread.qq.com/web/reader/36532ca071eba0903651b8a"
+    },
     {
       "id": "3300222271",
       "title": "形而上学导读",
