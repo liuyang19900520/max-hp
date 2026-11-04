@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-11-03T02:43:07.092Z",
+  "syncedAt": "2026-11-04T00:58:22.737Z",
   "books": [
+    {
+      "id": "41599076",
+      "title": "孟宪实讲唐史·从玄武门之变到贞观之治",
+      "author": "孟宪实",
+      "cover": "https://cdn.weread.qq.com/weread/cover/15/YueWen_41599076/t6_YueWen_41599076.jpg",
+      "url": "https://weread.qq.com/web/reader/3f9328e0727ac0643f90544"
+    },
     {
       "id": "32219280",
       "title": "长日将尽（译文经典）",
