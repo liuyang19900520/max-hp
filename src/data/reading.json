@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-11-13T01:34:53.653Z",
+  "syncedAt": "2026-11-14T01:07:51.709Z",
   "books": [
+    {
+      "id": "3300007946",
+      "title": "金刚经（国学典藏）",
+      "author": "[后秦]鸠摩罗什 丁福保",
+      "cover": "https://cdn.weread.qq.com/weread/cover/87/cpPlatform_3300007946/t6_cpPlatform_3300007946.jpg",
+      "url": "https://weread.qq.com/web/reader/9dc32020813ab699ag01694e"
+    },
     {
       "id": "41599076",
       "title": "孟宪实讲唐史·从玄武门之变到贞观之治",
@@ -480,7 +487,7 @@
     {
       "id": "856170",
       "title": "富兰克林自传（经典译林）",
-      "author": "本杰明·富兰克林",
+      "author": "[美]本杰明·富兰克林",
       "cover": "https://cdn.weread.qq.com/weread/cover/85/YueWen_856170/t6_YueWen_856170.jpg",
       "url": "https://weread.qq.com/web/reader/d1c32df05d106ad1cef92c8"
     },
