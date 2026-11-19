@@ -7,7 +7,7 @@ if (!key) throw new Error('Set WEREAD_API_KEY to sync the reading shelf.');
 const response = await fetch('https://i.weread.qq.com/api/agent/gateway', {
   method: 'POST',
   headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-  body: JSON.stringify({ api_name: '/shelf/sync', skill_version: '1.0.5' }),
+  body: JSON.stringify({ api_name: '/shelf/sync', skill_version: '1.0.6' }),
   signal: AbortSignal.timeout(30_000),
 });
 if (!response.ok) throw new Error(`WeRead request failed (${response.status}).`);
