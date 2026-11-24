@@ -1,6 +1,27 @@
 {
-  "syncedAt": "2026-11-17T03:18:49.087Z",
+  "syncedAt": "2026-11-24T12:58:23.050Z",
   "books": [
+    {
+      "id": "3300168271",
+      "title": "西行漫记（伟大的长征实录，革命的星火燎原）",
+      "author": "[美]埃德加·斯诺",
+      "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_7nq5tdweqwawkixr4kh21y/t6_cpplatform_7nq5tdweqwawkixr4kh21y1760090397.jpg",
+      "url": "https://weread.qq.com/web/reader/3a5329a0813aba83bg011b29"
+    },
+    {
+      "id": "920636",
+      "title": "激荡三十年：中国企业1978—2008（十年典藏版）（全2册）",
+      "author": "吴晓波",
+      "cover": "https://cdn.weread.qq.com/weread/cover/34/yuewen_920636/t6_yuewen_9206361701940275.jpg",
+      "url": "https://weread.qq.com/web/reader/d67323d05e0c3cd67b3b688"
+    },
+    {
+      "id": "3300197961",
+      "title": "技术革命与金融资本：AI、泡沫与周期",
+      "author": "[英]卡洛塔·佩雷斯",
+      "cover": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_d1upgnzfqdz2jbiewxrotf/t6_cpplatform_d1upgnzfqdz2jbiewxrotf1773214911.jpg",
+      "url": "https://weread.qq.com/web/reader/d2132680813abb3d4g011203"
+    },
     {
       "id": "3300007946",
       "title": "金刚经（国学典藏）",
@@ -91,13 +112,6 @@
       "author": "班宇",
       "cover": "https://cdn.weread.qq.com/weread/cover/68/cpplatform_ohyqfz5namm7bv6rq9jpvq/t6_cpplatform_ohyqfz5namm7bv6rq9jpvq1698228244.jpg",
       "url": "https://weread.qq.com/web/reader/09f322c0813ab83bdg012b36"
-    },
-    {
-      "id": "3300197961",
-      "title": "技术革命与金融资本：AI、泡沫与周期",
-      "author": "[英]卡洛塔·佩雷斯",
-      "cover": "https://cdn.weread.qq.com/weread/cover/57/cpplatform_d1upgnzfqdz2jbiewxrotf/t6_cpplatform_d1upgnzfqdz2jbiewxrotf1773214911.jpg",
-      "url": "https://weread.qq.com/web/reader/d2132680813abb3d4g011203"
     },
     {
       "id": "3300176894",
@@ -322,13 +336,6 @@
       "author": "傅高义",
       "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/48/674048/t6_674048.jpg",
       "url": "https://weread.qq.com/web/reader/00f325d05a490000f72bda9"
-    },
-    {
-      "id": "3300168271",
-      "title": "西行漫记（伟大的长征实录，革命的星火燎原）",
-      "author": "[美]埃德加·斯诺",
-      "cover": "https://cdn.weread.qq.com/weread/cover/1/cpplatform_7nq5tdweqwawkixr4kh21y/t6_cpplatform_7nq5tdweqwawkixr4kh21y1760090397.jpg",
-      "url": "https://weread.qq.com/web/reader/3a5329a0813aba83bg011b29"
     },
     {
       "id": "3300099034",
