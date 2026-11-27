@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-26T03:17:32.618Z",
+  "syncedAt": "2026-11-27T03:22:55.887Z",
   "books": [
     {
       "id": "3300168271",
@@ -1220,18 +1220,18 @@
       "url": "https://weread.qq.com/web/reader/734325d052b9f4734d6a816"
     },
     {
-      "id": "26278269",
-      "title": "苏轼传",
-      "author": "王水照 崔铭",
-      "cover": "https://cdn.weread.qq.com/weread/cover/94/YueWen_26278269/t6_YueWen_26278269.jpg",
-      "url": "https://weread.qq.com/web/reader/ec332f707190f97dec3e09f"
-    },
-    {
       "id": "3300014116",
       "title": "聪明的投资者（第4版，注疏点评版）",
       "author": "[美]本杰明·格雷厄姆 [美]贾森·兹威格　著",
       "cover": "https://cdn.weread.qq.com/weread/cover/16/3300014116/t6_3300014116.jpg",
       "url": "https://weread.qq.com/web/reader/08d329d0813ab6c03g016242"
+    },
+    {
+      "id": "26278269",
+      "title": "苏轼传",
+      "author": "王水照 崔铭",
+      "cover": "https://cdn.weread.qq.com/weread/cover/94/YueWen_26278269/t6_YueWen_26278269.jpg",
+      "url": "https://weread.qq.com/web/reader/ec332f707190f97dec3e09f"
     },
     {
       "id": "32307641",
