@@ -1,6 +1,13 @@
 {
-  "syncedAt": "2026-11-27T03:22:55.887Z",
+  "syncedAt": "2026-11-28T02:59:47.722Z",
   "books": [
+    {
+      "id": "3300230766",
+      "title": "天幕红尘（《遥远的救世主》姊妹篇）",
+      "author": "豆豆",
+      "cover": "https://cdn.weread.qq.com/weread/cover/45/cpplatform_n77zqawgs6ownvuvnjhbaa/t6_cpplatform_n77zqawgs6ownvuvnjhbaa1789098821.jpg",
+      "url": "https://weread.qq.com/web/reader/552326f0813abc0a4g016216"
+    },
     {
       "id": "3300168271",
       "title": "西行漫记（伟大的长征实录，革命的星火燎原）",
